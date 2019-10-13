@@ -1,1 +1,4 @@
 
+La lista en vertical es la lista circular, mientras que las listas aledañas son las sublistas.
+Uso 3 finds para insertar mientras busco, buscar normalmente y para buscar en sublistas.
+La manera de insercion es usando puntero doble.
